@@ -746,10 +746,10 @@ form textarea.style-2 {
 .wg-about {
     padding-top: 112px;
     padding-bottom: 135px;
-    background-image: url(../images/bg-section/about-bg1.png);
+    background-image: url();
     background-repeat: no-repeat;
     background-position: 100% 60%;
-    background-color: #FFF;
+    background-color: #fbfbe0;
     position: relative;
     z-index: 5;
 }

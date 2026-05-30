@@ -158,7 +158,7 @@ html {
 }
 
 body {
-    background: #fff;
+    background: #fbfbe0 !important;
     line-height: 1;
     padding: 0 !important;
 }
@@ -1517,7 +1517,7 @@ a:focus {
     font-size: 15px;
     font-weight: 600;
     line-height: 82px;
-    color: #fff;
+    color: #000000;
     position: relative;
     text-transform: uppercase;
     letter-spacing: 2.2px;
@@ -1525,7 +1525,7 @@ a:focus {
 
 .menu-primary-menu li.current-menu-item>a::before {
     position: absolute;
-    content: url(../icon/coffee-2.svg);
+    content: url();
     left: -25px;
 }
 
@@ -1780,7 +1780,7 @@ a:focus {
     line-height: 22px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fff;
+    color: #000000;
 }
 
 #menu-mobile-menu li.current-menu-item>a,
@@ -1868,7 +1868,7 @@ a:focus {
 }
 
 .header-2>.top .wg-information p {
-    color: #171412;
+    color: #ffffff;
     margin-top: 0;
     margin-bottom: 0px;
     letter-spacing: 0.2px;
@@ -1928,7 +1928,7 @@ a:focus {
 .header-2.is-fixed.is-small .header-inner {
     margin-top: 0;
     background-image: none;
-    background: #161616;
+    background: #fbfbe0;
 }
 
 
