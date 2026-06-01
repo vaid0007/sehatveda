@@ -1853,7 +1853,7 @@ a:focus {
     position: absolute;
     bottom: 6px;
     right: -9px;
-    content: url(../images/item-background/header-2.png);
+    content: url();
 }
 
 .header-2>.top .header-top {
@@ -2574,14 +2574,14 @@ input:checked~.btn-checkbox:after {
     top: 50%;
     left: 50%;
     position: absolute;
-    width: 100px;
+    width: 200px;
     height: 100px;
     z-index: 100;
     margin: -50px 0 0 -50px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    content: url(../images/logo/logo2.png);
+    content: url(../images/logo/SV_logo1.png);
     animation: preload 1.2s linear infinite alternate;
 }
 

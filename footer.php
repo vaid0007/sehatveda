@@ -89,9 +89,7 @@
                             <div class="text">Follow Us:</div>
                             <ul class="">
                                 <li><a href="#" class="icon-fb"></a></li>
-                                <li><a href="#" class="icon-twitter"></a></li>
                                 <li><a href="#" class="icon-instagram"></a></li>
-                                <li><a href="#" class="icon-youtube-play"></a></li>
                             </ul>
                         </div>
                     </div>

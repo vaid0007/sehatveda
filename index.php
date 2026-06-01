@@ -8,29 +8,79 @@
   <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
-    <!--[if IE
-      ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
-    /><![endif]-->
-    <title>Shhat veda - Restaurant</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <meta name="author" content="themesflat.com" />
+    <!-- SEO -->
+    <title>Sehat Veda | Healthy Vegetarian Restaurant in Janakpuri, New Delhi</title>
+
+    <meta name="title" content="Sehat Veda | Healthy Vegetarian Restaurant in Janakpuri, New Delhi" />
+    <meta name="description"
+        content="Sehat Veda offers healthy, fresh and delicious vegetarian meals in Janakpuri, New Delhi. Experience wellness through nutritious food and authentic flavors." />
+    <meta name="keywords"
+        content="Sehat Veda, Restaurant Janakpuri, Healthy Food Janakpuri, Vegetarian Restaurant Delhi, Healthy Dining Delhi, Organic Food Delhi, Family Restaurant Janakpuri" />
+    <meta name="author" content="Sehat Veda" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
 
     <!-- Mobile Specific Metas -->
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://yourdomain.com/" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#4CAF50" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Sehat Veda | Healthy Vegetarian Restaurant in Janakpuri" />
+    <meta property="og:description"
+        content="Fresh, healthy and nutritious vegetarian meals served in Janakpuri, New Delhi." />
+    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta property="og:site_name" content="Sehat Veda" />
+    <meta property="og:image" content="assets/images/logo/logo.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Sehat Veda | Healthy Vegetarian Restaurant" />
+    <meta name="twitter:description"
+        content="Healthy vegetarian meals and wellness-focused dining experience in Janakpuri, New Delhi." />
+    <meta name="twitter:image" content="assets/images/logo/logo.png" />
+
+    <!-- Local SEO -->
+    <meta name="geo.region" content="IN-DL" />
+    <meta name="geo.placename" content="Janakpuri, New Delhi" />
+    <meta name="geo.position" content="28.6219;77.0878" />
+    <meta name="ICBM" content="28.6219,77.0878" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="assets/images/logo/favicons/apple-touch-icon.png" />
+
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="assets/images/logo/favicons/favicon-32x32.png" />
+
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="assets/images/logo/favicons/favicon-16x16.png" />
+
+    <link rel="icon"
+        href="assets/images/logo/favicons/favicon.ico" />
+
+    <link rel="icon" type="image/png" sizes="192x192"
+        href="assets/images/logo/favicons/android-chrome-192x192.png" />
+
+    <link rel="icon" type="image/png" sizes="512x512"
+        href="assets/images/logo/favicons/android-chrome-512x512.png" />
+
+    <link rel="manifest"
+        href="assets/images/logo/favicons/site.webmanifest" />
 
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-    <!-- Reponsive -->
+    <!-- Responsive -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
-
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
-  </head>
+</head>
 
   <body class="body counter-scroll">
     <!-- preload -->

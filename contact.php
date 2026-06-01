@@ -10,12 +10,26 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Restaurant HTML Template - Coffee</title>
 
-    <meta name="author" content="themesflat.com">
+    <title>Contact Us | Sehat Veda - Healthy Vegetarian Restaurant in Janakpuri</title>
+
+    <meta name="title" content="Contact Us | Sehat Veda - Healthy Vegetarian Restaurant in Janakpuri">
+    <meta name="description"
+        content="Get in touch with Sehat Veda in Janakpuri, New Delhi. Contact us for reservations, inquiries, catering services, and healthy dining experiences.">
+    <meta name="keywords"
+        content="Contact Sehat Veda, Restaurant Janakpuri Contact, Healthy Restaurant Delhi, Restaurant Reservation Janakpuri, Vegetarian Restaurant Contact, Sehat Veda Phone Number">
+    <meta name="author" content="Sehat Veda">
+    <meta name="robots" content="index, follow">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact Us | Sehat Veda">
+    <meta property="og:description"
+        content="Contact Sehat Veda for table reservations, customer support, catering services, and restaurant inquiries.">
+    <meta property="og:image" content="assets/images/logo/logo.png">
 
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -23,10 +37,21 @@
     <!-- Reponsive -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="assets/images/logo/favicons/apple-touch-icon.png">
 
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="assets/images/logo/favicons/favicon-32x32.png">
+
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="assets/images/logo/favicons/favicon-16x16.png">
+
+    <link rel="icon"
+        href="assets/images/logo/favicons/favicon.ico">
+
+    <link rel="manifest"
+        href="assets/images/logo/favicons/site.webmanifest">
 </head>
 
 <body class="body">

@@ -10,12 +10,26 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Restaurant HTML Template - Coffee</title>
 
-    <meta name="author" content="themesflat.com">
+    <title>Health & Wellness Blog | Sehat Veda - Healthy Living Tips & Recipes</title>
+
+    <meta name="title" content="Health & Wellness Blog | Sehat Veda - Healthy Living Tips & Recipes">
+    <meta name="description"
+        content="Read the latest health, nutrition, wellness, and healthy eating articles from Sehat Veda. Discover healthy recipes, diet tips, and lifestyle advice for better living.">
+    <meta name="keywords"
+        content="Sehat Veda Blog, Health Blog, Wellness Blog, Healthy Recipes, Nutrition Tips, Healthy Eating, Vegetarian Diet, Healthy Lifestyle, Food Blog Delhi">
+    <meta name="author" content="Sehat Veda">
+    <meta name="robots" content="index, follow">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Health & Wellness Blog | Sehat Veda">
+    <meta property="og:description"
+        content="Explore health tips, nutrition advice, wellness guides, and healthy recipes from Sehat Veda.">
+    <meta property="og:image" content="assets/images/logo/logo.png">
 
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -23,10 +37,21 @@
     <!-- Reponsive -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="assets/images/logo/favicons/apple-touch-icon.png">
 
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="assets/images/logo/favicons/favicon-32x32.png">
+
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="assets/images/logo/favicons/favicon-16x16.png">
+
+    <link rel="icon"
+        href="assets/images/logo/favicons/favicon.ico">
+
+    <link rel="manifest"
+        href="assets/images/logo/favicons/site.webmanifest">
 </head>
 
 <body class="body">

@@ -11,9 +11,16 @@
     <!--[if IE
       ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
     /><![endif]-->
-    <title>Restaurant HTML Template - Coffee</title>
 
-    <meta name="author" content="themesflat.com" />
+    <title>About Us | Sehat Veda - Healthy Vegetarian Restaurant in Janakpuri</title>
+
+    <meta name="title" content="About Us | Sehat Veda - Healthy Vegetarian Restaurant in Janakpuri" />
+    <meta name="description"
+        content="Learn about Sehat Veda, a healthy vegetarian restaurant in Janakpuri, New Delhi. Discover our mission, values, fresh ingredients, and commitment to nutritious dining." />
+    <meta name="keywords"
+        content="About Sehat Veda, Healthy Restaurant Janakpuri, Vegetarian Restaurant Delhi, Healthy Food Delhi, Organic Food Restaurant, Sehat Veda Story" />
+    <meta name="author" content="Sehat Veda" />
+    <meta name="robots" content="index, follow" />
 
     <!-- Mobile Specific Metas -->
     <meta
@@ -21,16 +28,35 @@
       content="width=device-width, initial-scale=1, maximum-scale=1"
     />
 
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="About Sehat Veda" />
+    <meta property="og:description"
+        content="Discover the story behind Sehat Veda and our commitment to healthy, delicious vegetarian food." />
+    <meta property="og:image" content="assets/images/logo/logo.png" />
+
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <!-- Reponsive -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
-  </head>
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="assets/images/logo/favicons/apple-touch-icon.png" />
+
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="assets/images/logo/favicons/favicon-32x32.png" />
+
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="assets/images/logo/favicons/favicon-16x16.png" />
+
+    <link rel="icon"
+        href="assets/images/logo/favicons/favicon.ico" />
+
+    <link rel="manifest"
+        href="assets/images/logo/favicons/site.webmanifest" />
+</head>
 
   <body class="body counter-scroll">
     <!-- preload -->
