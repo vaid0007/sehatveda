@@ -184,7 +184,9 @@
                 <div class="wrap">
                   <div class="image wow fadeInLeft">
                     <img src="assets/images/box-item/home1.jpg" alt="" />
+                    
                   </div>
+
                   <div class="content">
                     <div class="heading-section">
                       <span class="sub wow fadeInUp">
@@ -200,18 +202,11 @@
                       healthy beverages, every dish is prepared with quality and
                       hygiene in mind.
                     </p>
-                    <!-- 
-    <p class="wow fadeInUp">
-        Our cloud kitchen in vikaspuri is dedicated to making healthy eating 
-        convenient, delicious, and affordable. Order your favorite guilt-free meals 
-        online through Swiggy & Zomato and enjoy fresh food delivered straight 
-        to your doorstep.
-    </p> -->
-
                     <a href="about.html" class="button-style-1 wow fadeInUp">
                       DISCOVER MORE
                     </a>
                   </div>
+
                   <div class="hour-opening">
                     <div class="title">HOUR OPENING</div>
                     <ul>
@@ -252,6 +247,7 @@
                       </li>
                     </ul>
                   </div>
+
                 </div>
               </div>
             </div>
@@ -966,7 +962,7 @@
                           </div>
 
                           <div class="title">
-                            <a href="blog.php">
+                            <a href="blog">
                               Why High-Protein Meals Are Important For Daily
                               Energy
                             </a>
@@ -980,7 +976,7 @@
                           </div>
 
                           <div class="bottom">
-                            <a class="button-default" href="blog.php">
+                            <a class="button-default" href="blog">
                               Read more <i class="icon-arrow-right2"></i>
                             </a>
                           </div>
@@ -1006,7 +1002,7 @@
                           </div>
 
                           <div class="title">
-                            <a href="blog.php">
+                            <a href="blog">
                               Healthy Eating Made Easy With Sehat Veda
                             </a>
                           </div>
@@ -1018,7 +1014,7 @@
                           </div>
 
                           <div class="bottom">
-                            <a class="button-default" href="blog.php">
+                            <a class="button-default" href="blog">
                               Read more <i class="icon-arrow-right2"></i>
                             </a>
                           </div>
@@ -1044,7 +1040,7 @@
                           </div>
 
                           <div class="title">
-                            <a href="blog.php">
+                            <a href="blog">
                               Best Healthy Breakfast Options To Start Your Day
                             </a>
                           </div>
@@ -1056,7 +1052,7 @@
                           </div>
 
                           <div class="bottom">
-                            <a class="button-default" href="blog.php">
+                            <a class="button-default" href="blog">
                               Read more <i class="icon-arrow-right2"></i>
                             </a>
                           </div>
@@ -1081,7 +1077,7 @@
                           </div>
 
                           <div class="title">
-                            <a href="blog.php">
+                            <a href="blog">
                               Why Healthy Food Choices Matter Every Day
                             </a>
                           </div>
@@ -1093,7 +1089,7 @@
                           </div>
 
                           <div class="bottom">
-                            <a class="button-default" href="blog.php">
+                            <a class="button-default" href="blog">
                               Read more <i class="icon-arrow-right2"></i>
                             </a>
                           </div>

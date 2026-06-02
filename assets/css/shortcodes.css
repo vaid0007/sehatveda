@@ -746,7 +746,7 @@ form textarea.style-2 {
 .wg-about {
     padding-top: 112px;
     padding-bottom: 135px;
-    background-image: url();
+    background-image: url(../images/bg-section/about-bg11.png);
     background-repeat: no-repeat;
     background-position: 100% 60%;
     background-color: #fbfbe0;
@@ -769,11 +769,13 @@ form textarea.style-2 {
 
 .wg-about .content {
     margin-top: 49px;
-    padding: 53px 75px 60px 79px;
+    padding: 30px;
+    height: fit-content;
+    right: 30px;
     position: relative;
     z-index: 3;
     background-color: #FFF;
-    border-top-left-radius: 10px;
+    border-radius: 10px;
 }
 
 .wg-about .content .heading-section {

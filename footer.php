@@ -3,8 +3,8 @@
                     <div class="row">
                         <div class="col-md-6 col-lg-3 logo">
                             <div class="logo-footer" id="logo-footer">
-                                <a href="index.php">
-                                    <img id="logo_footer" alt="" src="assets/images/logo/main_logo.png" data-retina="assets/images/logo/main_logo.png">
+                                <a href="index">
+                                    <img id="logo_footer" alt="" src="assets/images/logo/SV_logo1.png" data-retina="assets/images/logo/SV_logo1.png" style="width:250px;">
                                 </a>
                             </div>
 <div class="text">
@@ -15,37 +15,42 @@
                         <div class="col-md-6 col-lg-3 newletters">
                             <div class="title-wg">Quick Link</div>
                             <ul>
-                                <li>
-                                    <div class="text">
-                                        <span>Home</span>  
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="text">
-                                        <span>About Us</span>  
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="text">
-                                        <span>Menu</span>  
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="text">
-                                        <span>Reservatio</span>   
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="text">
-                                        <span>Blog</span>  
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="text">
-                                        <span>Contact</span>   
-                                    </div>
-                                </li>
-                            </ul>
+    <li>
+        <div class="text">
+            <span><a href="/">Home</a></span>
+        </div>
+    </li>
+
+    <li>
+        <div class="text">
+            <span><a href="about">About Us</a></span>
+        </div>
+    </li>
+
+    <li>
+        <div class="text">
+            <span><a href="menu">Menu</a></span>
+        </div>
+    </li>
+
+    <li>
+        <div class="text">
+            <span><a href="reservation">Reservation</a></span>
+        </div>
+    </li>
+
+    <li>
+        <div class="text">
+            <span><a href="blog">Blog</a></span>
+        </div>
+    </li>
+
+    <li>
+        <div class="text">
+            <span><a href="contact">Contact</a></span>
+        </div>
+    </li>
+</ul>
                         </div>
                         <div class="col-md-6 col-lg-3 contact">
                             <div class="title-wg">Contact Us</div>

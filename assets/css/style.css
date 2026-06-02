@@ -1263,7 +1263,7 @@ a:focus {
     margin-top: 30px;
     margin-bottom: 27px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
@@ -1875,7 +1875,7 @@ a:focus {
 }
 
 .header-2 .menu-primary-menu {
-    gap: 51px;
+    gap: 70px;
 }
 
 .header-2 .menu-primary-menu>li>a {
@@ -2572,10 +2572,9 @@ input:checked~.btn-checkbox:after {
 
 .preload-container .middle {
     top: 50%;
-    left: 50%;
+    left: 42%;
     position: absolute;
-    width: 200px;
-    height: 100px;
+    width: 300px;
     z-index: 100;
     margin: -50px 0 0 -50px;
     background-repeat: no-repeat;

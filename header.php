@@ -54,22 +54,22 @@
                         </a>   
                                 </li>
                                 <li class="menu-item menu-item-has-children current-menu-item">
-                                    <a href="index.php">Home</a> 
+                                    <a href="./">Home</a> 
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.php">About Us</a>
+                                    <a href="about">About Us</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="menu.php">Menu</a>
+                                    <a href="menu">Menu</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="gallery.php">Gallery</a>
+                                    <a href="gallery">Gallery</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="blog.php">Blog</a>
+                                    <a href="blog">Blog</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="contact.php">Contact</a>
+                                    <a href="contact">Contact</a>
                                 </li>
                             </ul>
                         </nav><!-- /main-nav -->
@@ -88,22 +88,22 @@
                         <nav id="mobile-main-nav" class="mobile-main-nav">
                             <ul id="menu-mobile-menu" class="menu">
                                  <li class="menu-item menu-item-has-children current-menu-item">
-                                    <a href="index.php">Home</a> 
+                                    <a href="">Home</a> 
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.php">About Us</a>
+                                    <a href="about">About Us</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="menu.php">Menu</a>
+                                    <a href="menu">Menu</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="gallery.php">Gallery</a>
+                                    <a href="gallery">Gallery</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="blog.php">Blog</a>
+                                    <a href="blog">Blog</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="contact.php">Contact</a>
+                                    <a href="contact">Contact</a>
                                 </li>
                             </ul>
                         </nav>

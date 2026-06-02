@@ -57,10 +57,8 @@
 <body class="body">
 
     <!-- preload -->
-    <div class="preload preload-container">
-        <div class="middle">
-            
-            </div>
+    <div class="preload preload-container" style="background-color: #c3d996">
+      <div class="middle"></div>
     </div>
     <!-- /preload -->
 
@@ -83,7 +81,7 @@
                             <div class="heading">Blog</div>
                             <ul class="breadcrumbs">
                                 <li class="item">
-                                    <a href="index.php">Home</a>
+                                    <a href="index">Home</a>
                                 </li>
                                 <li class="active">
                                     <a href="#">Blog</a>
