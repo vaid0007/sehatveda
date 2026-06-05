@@ -1,10 +1,10 @@
 <footer id="footer" class="footer">
                 <div class="themesflat-container">
                     <div class="row">
-                        <div class="col-md-6 col-lg-3 logo">
+                        <div class="col-md-6 col-lg-4 logo">
                             <div class="logo-footer" id="logo-footer">
                                 <a href="index">
-                                    <img id="logo_footer" alt="" src="assets/images/logo/SV_logo1.png" data-retina="assets/images/logo/SV_logo1.png" style="width:250px;">
+                                    <img id="logo_footer" alt="" src="assets/images/logo/SV_logo2.png" data-retina="assets/images/logo/SV_logo1.png" style="width:250px;">
                                 </a>
                             </div>
 <div class="text">
@@ -12,7 +12,7 @@
     high-protein, and delicious meals in Janakpuri. Fresh ingredients, 
     wholesome recipes, and fast delivery through Swiggy & Zomato.
 </div>                        </div>
-                        <div class="col-md-6 col-lg-3 newletters">
+                        <div class="col-md-6 col-lg-2 newletters">
                             <div class="title-wg">Quick Link</div>
                             <ul>
     <li>

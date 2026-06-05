@@ -1993,7 +1993,7 @@ a:focus {
 
 .logo-footer {
     margin-bottom: 25px;
-    margin-top: 13px;
+    margin-top: 0px;
 }
 
 .footer .contact {
@@ -2580,7 +2580,7 @@ input:checked~.btn-checkbox:after {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    content: url(../images/logo/SV_logo1.png);
+    content: url(../images/logo/SV_logo2.png);
     animation: preload 1.2s linear infinite alternate;
 }
 

@@ -49,8 +49,8 @@
                                  
                         <li class="menu-item menu-item-has-children current-menu-item">
                                     <a href="index.html" rel="home" class="main-logo">
-                            <img id="logo_header" alt="" src="assets/images/logo/SV_logo1.png"
-                            data-retina="assets/images/logo/SV_logo1.png" style="width:180px;" >
+                            <img id="logo_header" alt="" src="assets/images/logo/SV_logo2.png"
+                            data-retina="assets/images/logo/SV_logo2.png" style="width:180px;" >
                         </a>   
                                 </li>
                                 <li class="menu-item menu-item-has-children current-menu-item">

@@ -175,7 +175,7 @@
 
                     <div class="map-box">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.7642856559823!2d77.07453887550093!3d28.6368258756624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d05455c7a0c33%3A0xa562d498f07094da!2sXero%20Degrees%20vikaspuri!5e0!3m2!1sen!2sin!4v1779870316295!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29521.82758909929!2d77.04444419591219!3d28.64096935821434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0577a15640cb%3A0x6d633da33fc6fa32!2sSehat%20veda!5e1!3m2!1sen!2sin!4v1780489345824!5m2!1sen!2sin"
                             width="100%"
                             height="500"
                             style="border:0; border-radius:20px;"

@@ -93,6 +93,196 @@
             </div>
             <!-- /banner-page -->
 
+            <div class="wg-news" style="margin-top: 200px">
+          <div class="themesflat-container">
+            <div class="row">
+              <div class="col-12">
+                <div class="heading-section text-center mb-68">
+                  <span class="sub wow fadeInUp">latest new</span>
+                  <div class="main wow fadeInUp">What's new in our blog?</div>
+                </div>
+              </div>
+              <div class="col-12">
+                <div
+                  class="swiper-container"
+                  data-swiper='{
+                                "spaceBetween": 30,
+                                "slidesPerView": 1,
+                                "observer": true,
+                                "observeParents": true,
+                                "breakpoints": {
+                                    "768": {
+                                        "slidesPerView": 3
+                                    }
+                                },
+                                "navigation": {
+                                    "nextEl": ".news-next",
+                                    "prevEl": ".news-prev"
+                                }
+                            }'
+                >
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="wg-blog wow fadeInUp">
+                        <div class="image">
+                          <img
+                            src="assets/images/bg-section/b1.jpg"
+                            style="width: auto; height: 300px"
+                            alt="Healthy Protein Meals"
+                          />
+                        </div>
+
+                        <div class="content">
+                          <div class="meta">
+                            <span>By Sehat Veda</span>
+                            <span>Healthy Living</span>
+                            <span>Protein Meals</span>
+                          </div>
+
+                          <div class="title">
+                            <a href="blog">
+                              Why High-Protein Meals Are Important For Daily
+                              Energy
+                            </a>
+                          </div>
+
+                          <div class="text">
+                            Discover how balanced high-protein meals can improve
+                            energy, muscle recovery, metabolism, and overall
+                            wellness while helping you maintain a healthy
+                            lifestyle.
+                          </div>
+
+                          <div class="bottom">
+                            <a class="button-default" href="blog">
+                              Read more <i class="icon-arrow-right2"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                      <div class="wg-blog wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="image">
+                          <img
+                            src="assets/images/bg-section/b2.jpg"
+                            style="width: auto; height: 300px"
+                            alt="Healthy Cloud Kitchen"
+                          />
+                        </div>
+
+                        <div class="content">
+                          <div class="meta">
+                            <span>By Sehat Veda</span>
+                            <span>Healthy Food</span>
+                            <span>Cloud Kitchen</span>
+                          </div>
+
+                          <div class="title">
+                            <a href="blog">
+                              Healthy Eating Made Easy With Sehat Veda
+                            </a>
+                          </div>
+
+                          <div class="text">
+                            Learn how Sehat Veda delivers fresh, nutritious, and
+                            flavorful meals across vikaspuri through Swiggy &
+                            Zomato for convenient guilt-free eating.
+                          </div>
+
+                          <div class="bottom">
+                            <a class="button-default" href="blog">
+                              Read more <i class="icon-arrow-right2"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                      <div class="wg-blog wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="image">
+                          <img
+                            src="assets/images/bg-section/b3.jpg"
+                            style="width: auto; height: 300px"
+                            alt="Healthy Breakfast"
+                          />
+                        </div>
+
+                        <div class="content">
+                          <div class="meta">
+                            <span>By Sehat Veda</span>
+                            <span>Healthy Breakfast</span>
+                            <span>Nutrition</span>
+                          </div>
+
+                          <div class="title">
+                            <a href="blog">
+                              Best Healthy Breakfast Options To Start Your Day
+                            </a>
+                          </div>
+
+                          <div class="text">
+                            From moong dal chilla to protein-rich sandwiches and
+                            healthy drinks, explore wholesome breakfast meals
+                            designed for active and balanced lifestyles.
+                          </div>
+
+                          <div class="bottom">
+                            <a class="button-default" href="blog">
+                              Read more <i class="icon-arrow-right2"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                      <div class="wg-blog">
+                        <div class="image">
+                          <img
+                            src="assets/images/blog/img-01."
+                            alt="Healthy Food Delivery"
+                          />
+                        </div>
+
+                        <div class="content">
+                          <div class="meta">
+                            <span>By Sehat Veda</span>
+                            <span>Healthy Lifestyle</span>
+                            <span>Wellness Food</span>
+                          </div>
+
+                          <div class="title">
+                            <a href="blog">
+                              Why Healthy Food Choices Matter Every Day
+                            </a>
+                          </div>
+
+                          <div class="text">
+                            Eating nutritious and balanced meals daily can
+                            improve your lifestyle, immunity, energy levels, and
+                            overall well-being without compromising on taste.
+                          </div>
+
+                          <div class="bottom">
+                            <a class="button-default" href="blog">
+                              Read more <i class="icon-arrow-right2"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-button-next news-next style-1"></div>
+                <div class="swiper-button-prev news-prev style-1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
             <!-- wg-update -->
                 <!-- <div class="wg-update">
                     <div class="themesflat-container">
@@ -115,7 +305,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div -->
             <!-- /wg-update -->
 
             <!-- blog -->

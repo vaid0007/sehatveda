@@ -1318,6 +1318,7 @@ form textarea.style-2 {
     margin-left: -74px;
     margin-right: -32px;
     padding-top: 53px;
+    padding-bottom: 50px;
     padding-left: 80px;
     background-color: #FFF;
     border-top-left-radius: 10px;
@@ -1364,6 +1365,7 @@ form textarea.style-2 {
     margin-right: -75px;
     padding-right: 80px;
     padding-top: 53px;
+    padding-left: 40px;
     background-color: #FFF;
     border-top-right-radius: 10px;
     z-index: 5;
