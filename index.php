@@ -117,7 +117,7 @@
               <div class="swiper-slide">
                 <div class="page-title slide-1">
                   <div class="sub-title wow fadeInUp">
-                    - Welcome to Sehat Veda Cloud Kitchen, vikaspuri -
+                    - Welcome to Sehat Veda  Kitchen, Vikaspuri -
                   </div>
 
                   <div class="title wow fadeInUp" data-wow-delay="0.1s">
@@ -125,7 +125,7 @@
                   </div>
 
                   <div class="text wow fadeInUp" data-wow-delay="0.2s">
-                    Sehat Veda is a premium healthy cloud kitchen in vikaspuri
+                    Sehat Veda is a premium healthy  kitchen in Vikaspuri
                     serving high-protein meals, fresh salads, wholesome
                     sandwiches, nutritious khichdi bowls, and Ayurvedic-inspired
                     food delivered fresh through Swiggy & Zomato.
@@ -153,7 +153,7 @@
                   </div>
 
                   <div class="text wow fadeInUp" data-wow-delay="0.2s">
-                    Sehat Veda is your go-to healthy cloud kitchen in vikaspuri
+                    Sehat Veda is your go-to healthy  kitchen in Vikaspuri
                     offering delicious high-protein sandwiches, healthy salads,
                     nutritious khichdi bowls, fresh beverages, and wholesome
                     meals delivered fast via Swiggy & Zomato.
@@ -190,7 +190,7 @@
                   <div class="content">
                     <div class="heading-section">
                       <span class="sub wow fadeInUp">
-                        healthy cloud kitchen in vikaspuri
+                        healthy  kitchen in Vikaspuri
                       </span> 
                     </div>
 
@@ -543,8 +543,8 @@
                     </div>
 
                     <p class="wow fadeInUp">
-                      Sehat Veda is a wellness-focused cloud kitchen in
-                      vikaspuri serving nutritious, high-protein, and flavorful
+                      Sehat Veda is a wellness-focused  kitchen in
+                      Vikaspuri serving nutritious, high-protein, and flavorful
                       meals designed for modern healthy lifestyles. We focus on
                       fresh ingredients, hygienic preparation, and balanced
                       nutrition while delivering delicious food directly to your
@@ -644,7 +644,7 @@
                 <div class="content">
                   <div class="heading-section mb-26">
                     <span class="sub wow fadeInUp">
-                      healthy cloud kitchen
+                      healthy  kitchen
                     </span>
 
                     <div class="main wow fadeInUp">
@@ -654,7 +654,7 @@
                   </div>
 
                   <p class="wow fadeInUp">
-                    Sehat Veda is a premium healthy cloud kitchen in vikaspuri
+                    Sehat Veda is a premium healthy  kitchen in Vikaspuri
                     offering nutritious, high-protein, and flavorful meals
                     crafted with fresh ingredients and wellness-focused recipes.
                     Order healthy food online through Swiggy & Zomato and enjoy
@@ -696,7 +696,7 @@
                       <div class="toggle-content">
                         <p>
                           Enjoy fast and convenient healthy food delivery across
-                          vikaspuri with seamless ordering available on Swiggy
+                          Vikaspuri with seamless ordering available on Swiggy
                           and Zomato.
                         </p>
                       </div>
@@ -751,8 +751,8 @@
                     <div class="swiper-slide">
                       <div class="customer-testimonial-item">
                         <p>
-                          “ One of the best healthy food cloud kitchens in
-                          vikaspuri. The meals are fresh, nutritious, and full
+                          “ One of the best healthy food  kitchens in
+                          Vikaspuri. The meals are fresh, nutritious, and full
                           of flavor. Their protein-rich sandwiches and salads
                           have become my go-to healthy meal option on Swiggy. ”
                         </p>
@@ -990,7 +990,7 @@
                           <img
                             src="assets/images/bg-section/b2.jpg"
                             style="width: auto; height: 300px"
-                            alt="Healthy Cloud Kitchen"
+                            alt="Healthy  Kitchen"
                           />
                         </div>
 
@@ -998,7 +998,7 @@
                           <div class="meta">
                             <span>By Sehat Veda</span>
                             <span>Healthy Food</span>
-                            <span>Cloud Kitchen</span>
+                            <span> Kitchen</span>
                           </div>
 
                           <div class="title">
@@ -1009,7 +1009,7 @@
 
                           <div class="text">
                             Learn how Sehat Veda delivers fresh, nutritious, and
-                            flavorful meals across vikaspuri through Swiggy &
+                            flavorful meals across Vikaspuri through Swiggy &
                             Zomato for convenient guilt-free eating.
                           </div>
 

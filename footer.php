@@ -8,7 +8,7 @@
                                 </a>
                             </div>
 <div class="text">
-    Welcome to Sehat Veda Cloud Kitchen, your destination for healthy, 
+    Welcome to Sehat Veda  Kitchen, your destination for healthy, 
     high-protein, and delicious meals in Janakpuri. Fresh ingredients, 
     wholesome recipes, and fast delivery through Swiggy & Zomato.
 </div>                        </div>

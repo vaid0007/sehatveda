@@ -168,7 +168,7 @@
                           <img
                             src="assets/images/bg-section/b2.jpg"
                             style="width: auto; height: 300px"
-                            alt="Healthy Cloud Kitchen"
+                            alt="Healthy  Kitchen"
                           />
                         </div>
 
@@ -176,7 +176,7 @@
                           <div class="meta">
                             <span>By Sehat Veda</span>
                             <span>Healthy Food</span>
-                            <span>Cloud Kitchen</span>
+                            <span> Kitchen</span>
                           </div>
 
                           <div class="title">
