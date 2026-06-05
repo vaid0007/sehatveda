@@ -64,7 +64,7 @@
                                 <li>
                                     <div class="text">
                                         <span>BOOK A TABLE:</span> <br>
-                                        sehatvedafoods@gmail.com <br> +91 9899591067
+                                        sehatvedafoods@gmail.com <br> +91 9810027206
                                     </div>
                                 </li>
                             </ul>

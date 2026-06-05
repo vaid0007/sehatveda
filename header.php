@@ -48,7 +48,7 @@
                             <ul class="menu-primary-menu">
                                  
                         <li class="menu-item menu-item-has-children current-menu-item">
-                                    <a href="index.html" rel="home" class="main-logo">
+                                    <a href="index rel="home" class="main-logo">
                             <img id="logo_header" alt="" src="assets/images/logo/SV_logo2.png"
                             data-retina="assets/images/logo/SV_logo2.png" style="width:180px;" >
                         </a>   
@@ -79,7 +79,7 @@
                 <div class="mobile-nav-wrap">
                     <div class="overlay-mobile-nav"></div>
                     <div class="inner-mobile-nav">
-                        <a href="index.html" rel="home" class="main-logo">
+                        <a href="index rel="home" class="main-logo">
                             <img id="mobile-logo_header" alt="" src="assets/images/logo/SV_logo1.png" data-retina="assets/images/logo/SV_logo1.png">
                         </a>
                         <div class="mobile-nav-close">

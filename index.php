@@ -132,11 +132,11 @@
                   </div>
 
                   <div class="buttons wow fadeInUp" data-wow-delay="0.3s">
-                    <a href="menu.html" class="button-style-2">
+                    <a href="menu" class="button-style-2">
                       EXPLORE OUR MENU
                     </a>
 
-                    <a href="contact.html" class="button-style-2 active">
+                    <a href="contact" class="button-style-2 active">
                       ORDER ONLINE
                     </a>
                   </div>
@@ -160,11 +160,11 @@
                   </div>
 
                   <div class="buttons wow fadeInUp" data-wow-delay="0.3s">
-                    <a href="menu.html" class="button-style-2">
+                    <a href="menu class="button-style-2">
                       VIEW OUR MENU
                     </a>
 
-                    <a href="contact.html" class="button-style-2 active">
+                    <a href="contact class="button-style-2 active">
                       ORDER NOW
                     </a>
                   </div>
@@ -202,7 +202,7 @@
                       healthy beverages, every dish is prepared with quality and
                       hygiene in mind.
                     </p>
-                    <a href="about.html" class="button-style-1 wow fadeInUp">
+                    <a href="about" class="button-style-1 wow fadeInUp">
                       DISCOVER MORE
                     </a>
                   </div>
@@ -703,7 +703,7 @@
                     </div>
                   </div>
 
-                  <a href="menu.html" class="button-style-1">
+                  <a href="menu" class="button-style-1">
                     EXPLORE OUR MENU
                   </a>
                 </div>
@@ -1128,7 +1128,7 @@
               >
             </p>
             <p>Mon - Sun : 11.00AM - 12.00AM</p>
-            <a href="contact.html" class="button-style-2 m-auto"
+            <a href="contact class="button-style-2 m-auto"
               >GET DIRECTIONS</a
             >
           </div>

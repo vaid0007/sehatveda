@@ -342,10 +342,10 @@
                                             <span>Mar 26, 2023</span>
                                             <span>Bartending</span>
                                         </div>
-                                        <div class="title"><a href="blog-single.html">Towards a New “Coffee Brewing Control Chart”!</a></div>
+                                        <div class="title"><a href="blog>Towards a New “Coffee Brewing Control Chart”!</a></div>
                                         <div class="text">Lorem ipsum dolor sit amet, an bonorum partiendo sit. Ne alia graecis sit, duo natum errem ne, minim tollit nonumy eos at, quot...</div>
                                         <div class="bottom">
-                                            <a class="button-default" href="blog-single.html">Read more <i class="icon-arrow-right2"></i></a>
+                                            <a class="button-default" href="blog>Read more <i class="icon-arrow-right2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -361,10 +361,10 @@
                                             <span>Mar 26, 2023</span>
                                             <span>Bartending</span>
                                         </div>
-                                        <div class="title"><a href="blog-single.html">Beliefs & prejudices towards Robusta</a></div>
+                                        <div class="title"><a href="blog>Beliefs & prejudices towards Robusta</a></div>
                                         <div class="text">Lorem ipsum dolor sit amet, an bonorum partiendo sit. Ne alia graecis sit, duo natum errem ne, minim tollit nonumy eos at, quot...</div>
                                         <div class="bottom">
-                                            <a class="button-default" href="blog-single.html">Read more <i class="icon-arrow-right2"></i></a>
+                                            <a class="button-default" href="blog>Read more <i class="icon-arrow-right2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -380,10 +380,10 @@
                                             <span>Mar 26, 2023</span>
                                             <span>Bartending</span>
                                         </div>
-                                        <div class="title"><a href="blog-single.html">What determines the color of the coffee extract?</a></div>
+                                        <div class="title"><a href="blog>What determines the color of the coffee extract?</a></div>
                                         <div class="text">Lorem ipsum dolor sit amet, an bonorum partiendo sit. Ne alia graecis sit, duo natum errem ne, minim tollit nonumy eos at, quot...</div>
                                         <div class="bottom">
-                                            <a class="button-default" href="blog-single.html">Read more <i class="icon-arrow-right2"></i></a>
+                                            <a class="button-default" href="blog>Read more <i class="icon-arrow-right2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -399,10 +399,10 @@
                                             <span>Mar 26, 2023</span>
                                             <span>Bartending</span>
                                         </div>
-                                        <div class="title"><a href="blog-single.html">Towards a New “Coffee Brewing Control Chart”!</a></div>
+                                        <div class="title"><a href="blog>Towards a New “Coffee Brewing Control Chart”!</a></div>
                                         <div class="text">Lorem ipsum dolor sit amet, an bonorum partiendo sit. Ne alia graecis sit, duo natum errem ne, minim tollit nonumy eos at, quot...</div>
                                         <div class="bottom">
-                                            <a class="button-default" href="blog-single.html">Read more <i class="icon-arrow-right2"></i></a>
+                                            <a class="button-default" href="blog>Read more <i class="icon-arrow-right2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -418,10 +418,10 @@
                                             <span>Mar 26, 2023</span>
                                             <span>Bartending</span>
                                         </div>
-                                        <div class="title"><a href="blog-single.html">Beliefs & prejudices towards Robusta</a></div>
+                                        <div class="title"><a href="blog>Beliefs & prejudices towards Robusta</a></div>
                                         <div class="text">Lorem ipsum dolor sit amet, an bonorum partiendo sit. Ne alia graecis sit, duo natum errem ne, minim tollit nonumy eos at, quot...</div>
                                         <div class="bottom">
-                                            <a class="button-default" href="blog-single.html">Read more <i class="icon-arrow-right2"></i></a>
+                                            <a class="button-default" href="blog>Read more <i class="icon-arrow-right2"></i></a>
                                         </div>
                                     </div>
                                 </div>
